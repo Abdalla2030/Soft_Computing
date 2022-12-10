@@ -22,17 +22,29 @@ For each item:
 ## Example 
 '''
 2
+
 10
+
 3
+
 4 4
+
 6 6
+
 5 3
+
 15
+
 5
+
 12 4
+
 1 2
+
 4 10
+
 1 1
+
 2 2
 '''
 * Important remarks to help you solve the problem:
@@ -64,13 +76,18 @@ For each point:
 ## Example 
 '''
 1
+
 4 2
+
 1 5
+
 2 8
+
 3 13
+
 4 20
 '''
-* Note: In the example above, we have 1 dataset containing 4 points and we want to fit a 2nd
+Note: In the example above, we have 1 dataset containing 4 points and we want to fit a 2nd
 degree polynomial (a0, a1, a2).
 
 * Important remarks:
