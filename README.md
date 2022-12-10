@@ -22,29 +22,17 @@ For each item:
 ## Example 
 ```
 2
-
 10
-
 3
-
 4 4
-
 6 6
-
 5 3
-
 15
-
 5
-
 12 4
-
 1 2
-
 4 10
-
 1 1
-
 2 2
 ```
 * Important remarks to help you solve the problem:
