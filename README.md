@@ -20,7 +20,7 @@ For each test case:
 For each item:
 • Weight and value separated by space
 ## Example 
-
+```
 2
 
 10
@@ -46,7 +46,7 @@ For each item:
 1 1
 
 2 2
-
+```
 * Important remarks to help you solve the problem:
 1. Use a binary, one-dimensional chromosome.
 2. The population size and initialization method you use are up to you. You can actually try different population sizes to see how this will affect your results. The
