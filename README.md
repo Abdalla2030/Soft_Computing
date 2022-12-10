@@ -62,19 +62,14 @@ For each dataset:
 For each point:
 • x-coordinate and y-coordinate separated by space
 ## Example 
-
+```
 1
-
 4 2
-
 1 5
-
 2 8
-
 3 13
-
 4 20
-
+```
 Note: In the example above, we have 1 dataset containing 4 points and we want to fit a 2nd
 degree polynomial (a0, a1, a2).
 
