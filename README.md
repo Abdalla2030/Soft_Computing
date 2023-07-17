@@ -80,7 +80,3 @@ degree polynomial (a0, a1, a2).
 4. Initialize the genes such that their values are in the range [-10,10].
 5. Implement tournament selection, 2-point crossover, non-uniform mutation, and elitist replacement.
 6. You must read the input from the given file and write the output to a file. The output should consist of the dataset index, the coefficients of the polynomial function, and its mean square error.
-***************************************************************************************************
-### Assignment-3 ( Fuzzy Logic )
-***************************************************************************************************
-### Assignment-4 ( Backpropagation )
